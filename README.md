@@ -1,6 +1,14 @@
-### Olá! Eu sou o Leonardo Serpa
+<h2 align="center">Hello World! :earth_americas:</h2>
 
-- 🌱 Estudando Data Science 
+
+
+:heart: I'm passionate about tech, music, movie, dog, cat, games and of course my family!
+<br />
+:man_student:I have been learnig more about Data Science
+<br />
+
+
+
 
 <div>
   <a href="https://beacons.ai/leoserpa">
