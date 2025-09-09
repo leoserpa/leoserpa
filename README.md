@@ -30,7 +30,7 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 ### 🤖 **Machine Learning**
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyCaret](https://img.shields.io/badge/PyCaret-00A8E8?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ **Banco de Dados**
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
