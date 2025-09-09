@@ -159,5 +159,30 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
+
+---
+
+## 🎮 Data Science Roulette
+
+<div align="center">
+  
+  ### 🎪 Escolha Aleatória para Experimentos
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/Algoritmo_ML-96CEB4?style=for-the-badge&logo=python&logoColor=white" alt="ML Algorithm" />
+    <img src="https://img.shields.io/badge/Dataset-FFEAA7?style=for-the-badge&logo=database&logoColor=black" alt="Dataset" />
+    <img src="https://img.shields.io/badge/Métrica-74B9FF?style=for-the-badge&logo=chart&logoColor=white" alt="Metric" />
+  </div>
+  
+  > **🎯 Rode a roleta**: Escolha aleatoriamente algoritmo, dataset ou métrica para seu próximo experimento!
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
+
   
 
