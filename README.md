@@ -1,8 +1,9 @@
 # 👋 Olá, eu sou Leonardo Serpa!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Cientista+de+Dados+J%C3%BAnior;Apaixonado+por+Machine+Learning;Transformando+dados+em+insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Cientista+de+Dados;Apaixonado+por+Machine+Learning;Transformando+dados+em+insights" alt="Typing SVG" />
 </div>
+
 
 ---
 
