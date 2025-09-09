@@ -162,8 +162,7 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Transformando%20Dados%20em%20Inteligência&fontSize=25&fontAlignY=40&desc=Data%20Science%20é%20minha%20paixão!&descAlignY=60&descAlign=50" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Transformando%20Dados%20em%20Inteligência&fontSize=25&fontAlignY=40&desc=Data%20Science%20é%20minha%20paixão!&descAlignY=60&descAlign=50" />
 
   
 
