@@ -156,24 +156,14 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 
 ---
 
-## 🎮 Joguinho da Cobrinha
-
-<div align="center">
-  
-  ### 🐍 Snake Game
-  
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-  
-  > **🎯 Como jogar**: A cobra "come" seus commits do GitHub! Quanto mais você programa, mais pontos ganha!
-  
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Transformando%20Dados%20em%20Inteligência&fontSize=25&fontAlignY=40&desc=Data%20Science%20é%20minha%20paixão!&descAlignY=60&descAlign=50" />
+  
 
   
 
