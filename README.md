@@ -8,7 +8,7 @@
 
 ## 🎯 Sobre Mim
 
-Sou um **Cientista de Dados Júnior** apaixonado por transformar dados em insights valiosos e soluções inteligentes. Aplico meus conhecimentos em análise de dados, machine learning e estatística para criar soluções inovadoras e impactantes.
+Sou um **Cientista de Dados** apaixonado por transformar dados em insights valiosos e soluções inteligentes. Aplico meus conhecimentos em análise de dados, machine learning e estatística para criar soluções inovadoras e impactantes.
 
 ### 🚀 O que me motiva:
 - 📊 Descobrir padrões ocultos nos dados
