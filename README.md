@@ -1,9 +1,15 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Cientista%20de%20Dados&fontSize=50&fontAlignY=40&desc=Transformando%20Dados%20em%20Inteligência&descAlignY=60&descAlign=50" />
+</div>
+
+<div align="center">
+
+
 # 👋 Olá, eu sou Leonardo Serpa!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Cientista+de+Dados;Apaixonado+por+Machine+Learning;Transformando+dados+em+insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Cientista+de+Dados;Apaixonado+por+Machine+Learning;Transformando+dados+em+insights" alt="Typing SVG" />
 </div>
-
 
 ---
 
