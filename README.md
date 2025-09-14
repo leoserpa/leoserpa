@@ -91,42 +91,6 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 
 ---
 
-## 🎓 Formação e Certificações
-
-- 🎓 **Graduação em [Sua Área]** - [Nome da Universidade]
-- 📜 **Certificação em Data Science** - [Plataforma de Ensino]
-- 📜 **Certificação em Machine Learning** - [Plataforma de Ensino]
-- 📜 **Certificação em Python para Data Science** - [Plataforma de Ensino]
-
----
-
-## 🏆 Conquistas
-
-- 🥇 **1º Lugar** - Hackathon de Data Science [Nome do Evento]
-- 🏅 **Menção Honrosa** - Competição Kaggle [Nome da Competição]
-- 📊 **Top 10%** - Desafio de Análise de Dados [Nome da Plataforma]
-
----
-
-## 💼 Experiência
-
-### 🔬 **Projetos Pessoais e Acadêmicos**
-- Desenvolvimento de modelos preditivos para análise de tendências
-- Criação de dashboards interativos para visualização de dados
-- Participação em competições de machine learning
-- Contribuições em projetos open source
-
----
-
-## 🌱 Aprendendo Atualmente
-
-- 🔥 **Deep Learning** com TensorFlow e PyTorch
-- ☁️ **Cloud Computing** (AWS, Google Cloud)
-- 🐳 **Docker** e **Kubernetes**
-- 📊 **Apache Spark** para Big Data
-
----
-
 ## 📫 Como Me Encontrar
 
 <div align="center">
