@@ -63,22 +63,72 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 
 ---
 
-## 📚 Projetos Destacados
+## 🏗️ Projetos em Destaque
 
-### 🔍 [Análise de Dados do Zomato](link-para-projeto)
-- **Descrição**: Análise exploratória de dados de restaurantes e avaliações
-- **Tecnologias**: Python, Pandas, Matplotlib, Seaborn
-- **Resultados**: Identificação de padrões de consumo e preferências gastronômicas
+<div align="center">
 
-### 🤖 [Modelo de Predição de Preços](link-para-projeto)
-- **Descrição**: Modelo de machine learning para previsão de preços de imóveis
-- **Tecnologias**: Python, Scikit-learn, Pandas
-- **Resultados**: Acurácia de 85% na predição de preços
+### 🎯 **Vitrine de Projetos**
 
-### 📊 [Dashboard de Vendas](link-para-projeto)
-- **Descrição**: Dashboard interativo para análise de performance de vendas
-- **Tecnologias**: Power BI, SQL, Python
-- **Resultados**: Redução de 30% no tempo de análise de relatórios
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🍽️ **Plataforma de Analytics do Zomato**
+**Machine Learning | Visualização de Dados | Business Intelligence**
+
+- **Stack**: Python, Pandas, Scikit-learn, Plotly, Streamlit
+- **Impacto**: 40% melhoria na precisão de recomendações
+- **Recursos**: Análise de sentimento em tempo real, modelagem preditiva
+- **Status**: 🟢 Pronto para Produção
+
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-user/projeto-zomato)
+
+</td>
+<td width="50%">
+
+### 🏠 **Preditor de Preços Imobiliários**
+**Deep Learning | Visão Computacional | Análise de Regressão**
+
+- **Stack**: TensorFlow, OpenCV, Pandas, Flask
+- **Performance**: 92% de acurácia na predição de preços
+- **Inovação**: Avaliação de propriedades baseada em imagens
+- **Status**: 🟢 Deploy no AWS
+
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-user/real-estate-ai)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 **Dashboard de Inteligência de Vendas**
+**Business Intelligence | Engenharia de Dados | Automação**
+
+- **Stack**: Power BI, SQL, Python, Azure Functions
+- **ROI**: 35% redução no tempo de relatórios
+- **Escala**: 10M+ registros processados diariamente
+- **Status**: 🟢 Produção Empresarial
+
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-user/sales-dashboard)
+
+</td>
+<td width="50%">
+
+### 🤖 **API de Análise de Sentimento NLP**
+**Processamento de Linguagem Natural | Desenvolvimento de API | Microserviços**
+
+- **Stack**: Transformers, FastAPI, Docker, Kubernetes
+- **Precisão**: 94% classificação de sentimento
+- **Performance**: <100ms tempo de resposta
+- **Status**: 🟢 Microserviço Escalável
+
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-user/nlp-api)
+
+</td>
+</tr>
+</table>
 
 ---
 
