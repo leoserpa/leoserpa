@@ -112,16 +112,6 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 
 ---
 
-## 🎯 Objetivos para 2024
-
-- [ ] Completar 5 projetos de machine learning
-- [ ] Participar de 3 competições Kaggle
-- [ ] Contribuir para 10 projetos open source
-- [ ] Obter certificação em AWS Machine Learning
-- [ ] Desenvolver expertise em Deep Learning
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=leoserpa&style=for-the-badge&color=blue" alt="Profile views" />
   
