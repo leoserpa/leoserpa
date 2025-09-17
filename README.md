@@ -75,15 +75,17 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 <tr>
 <td width="50%">
 
-### 🍽️ **Plataforma de Analytics do Zomato**
-**Machine Learning | Visualização de Dados | Business Intelligence**
+# 🍽️ **Dashboard Rango Serpa - Analytics Gastronômico**
+**Data Science | Visualização de Dados | Business Intelligence**
 
-- **Stack**: Python, Pandas, Scikit-learn, Plotly, Streamlit
-- **Impacto**: 40% melhoria na precisão de recomendações
-- **Recursos**: Análise de sentimento em tempo real, modelagem preditiva
-- **Status**: 🟢 Pronto para Produção
+- **Stack**: Python, Pandas, Plotly, Streamlit, NumPy
+- **Dados**: 9.500+ restaurantes de 15 países diferentes
+- **Recursos**: Filtros inteligentes, análise comparativa, insights de mercado gastronômico
+- **Status**: 🟢 Deploy no Streamlit
 
-[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-user/projeto-zomato)
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoserpa/Rango-Serpa)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://rango-serpa.streamlit.app/)
+
 
 </td>
 <td width="50%">
