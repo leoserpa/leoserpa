@@ -78,7 +78,7 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 # 🍽️ **Dashboard Rango Serpa - Analytics Gastronômico**
 **Data Science | Visualização de Dados | Business Intelligence**
 
-- **Stack**: Python, Pandas, Plotly, Streamlit, NumPy
+- **Stack**: Python, Pandas, Plotly, Streamlit
 - **Dados**: 9.500+ restaurantes de 15 países diferentes
 - **Recursos**: Filtros inteligentes, análise comparativa, insights de mercado gastronômico
 - **Status**: 🟢 Deploy no Streamlit
