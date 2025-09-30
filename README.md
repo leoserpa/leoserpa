@@ -90,15 +90,16 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 </td>
 <td width="50%">
 
-### 🏠 **Preditor de Preços Imobiliários**
-**Deep Learning | Visão Computacional | Análise de Regressão**
+# 🎬 **Dashboard Netflix - Análise Exploratória de Dados**
+**Data Science | Visualização de Dados | Storytelling com Dados**
 
-- **Stack**: TensorFlow, OpenCV, Pandas, Flask
-- **Performance**: 92% de acurácia na predição de preços
-- **Inovação**: Avaliação de propriedades baseada em imagens
-- **Status**: 🟢 Deploy no AWS
+- **Stack**: Python, Pandas, Plotly, Streamlit
+- **Dados**: 8.709 títulos da Netflix (70.4% filmes, 29.6% séries)
+- **Recursos**: 6 visualizações interativas, storytelling com dados, análise temporal, top rankings
+- **Status**: 🟢 Deploy no Streamlit
 
-[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-user/real-estate-ai)
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoserpa/eda-netflix-analysis)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://netflix-daashboard.streamlit.app/)
 
 </td>
 </tr>
