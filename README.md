@@ -105,7 +105,7 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 </tr>
 <tr>
 <td width="50%">
-<!--
+
 ### 📊 **Dashboard de Inteligência de Vendas**
 **Business Intelligence | Engenharia de Dados | Automação**
 
@@ -129,7 +129,7 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 - **Status**: 🟢 Microserviço Escalável
 
 [![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-user/nlp-api)
--->
+
 </td>
 </tr>
 </table>
