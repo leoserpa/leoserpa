@@ -105,7 +105,7 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 </tr>
 <tr>
 <td width="50%">
-
+<!--
 ### 📊 **Dashboard de Inteligência de Vendas**
 **Business Intelligence | Engenharia de Dados | Automação**
 
@@ -118,6 +118,7 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 
 </td>
 <td width="50%">
+-->
 
 ### 🤖 **API de Análise de Sentimento NLP**
 **Processamento de Linguagem Natural | Desenvolvimento de API | Microserviços**
