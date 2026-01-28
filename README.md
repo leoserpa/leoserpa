@@ -106,15 +106,16 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 <tr>
 <td width="50%">
 
-### 📊 **Dashboard de Inteligência de Vendas**
-**Business Intelligence | Engenharia de Dados | Automação**
+### 📊 **Dashboard de Vendas & Rentabilidade - Power BI**
+**Business Intelligence | Análise de Dados | Power BI**
 
-- **Stack**: Power BI, SQL, Python, Azure Functions
-- **ROI**: 35% redução no tempo de relatórios
-- **Escala**: 10M+ registros processados diariamente
-- **Status**: 🟢 Produção Empresarial
+- **Stack**: Power BI, Power Query, DAX
+- **Objetivo**: análise de vendas, lucro, margem e rentabilidade por categoria, subcategoria e região
+- **Status**: 🟢 Deploy no Power BI Service
 
-[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-user/sales-dashboard)
+
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoserpa/powerbi-superstore)
+[![Live Demo](https://img.shields.io/badge/Live_Demo_Power_BI-FFD700?style=for-the-badge&logo=powerbi&logoColor=000000)](https://app.powerbi.com/view?r=eyJrIjoiNWU0ZWFkOTYtOTVlMy00YjU2LTg5NjgtNTcxM2YyYjk5MmVlIiwidCI6IjI4NDVhN2ExLWQ3ZTMtNDBjNC1hMGYwLWY4NWI5OWY2Mjc2YyJ9)
 
 </td>
 <td width="50%">
