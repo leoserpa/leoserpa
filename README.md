@@ -84,7 +84,7 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 - **Status**: 🟢 Deploy no Streamlit
 
 [![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoserpa/Rango-Serpa)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://rango-serpa.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo_Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://rango-serpa.streamlit.app/)
 
 
 </td>
@@ -99,7 +99,7 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 - **Status**: 🟢 Deploy no Streamlit
 
 [![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoserpa/eda-netflix-analysis)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://netflix-daashboard.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo_Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://netflix-daashboard.streamlit.app/)
 
 </td>
 </tr>
