@@ -72,7 +72,7 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 <tr>
 <td width="50%">
 
-# 🍽️ **Dashboard Rango Serpa - Analytics Gastronômico**
+### 🍽️ **Dashboard Rango Serpa - Analytics Gastronômico**
 **Data Science | Visualização de Dados | Business Intelligence**
 
 - **Stack**: Python, Pandas, Plotly, Streamlit
@@ -87,7 +87,7 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 </td>
 <td width="50%">
 
-# 🎬 **Dashboard Netflix - Análise Exploratória de Dados**
+### 🎬 **Dashboard Netflix - Análise Exploratória de Dados**
 **Data Science | Visualização de Dados | Storytelling com Dados**
 
 - **Stack**: Python, Pandas, Plotly, Streamlit
