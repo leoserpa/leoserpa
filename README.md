@@ -168,14 +168,6 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leoserpa&style=for-the-badge&color=blue" alt="Profile views" />
-  
-  **⭐ Se você gostou do meu perfil, deixe uma estrela! ⭐**
-</div>
-
----
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 
