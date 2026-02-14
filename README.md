@@ -113,7 +113,7 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 
 
 [![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoserpa/powerbi-superstore)
-[![Live Demo](https://img.shields.io/badge/Live_Demo_Power_BI-FFD700?style=for-the-badge&logo=powerbi&logoColor=000000)](https://app.powerbi.com/view?r=eyJrIjoiNWU0ZWFkOTYtOTVlMy00YjU2LTg5NjgtNTcxM2YyYjk5MmVlIiwidCI6IjI4NDVhN2ExLWQ3ZTMtNDBjNC1hMGYwLWY4NWI5OWY2Mjc2YyJ9)
+[![Live Demo](https://img.shields.io/badge/Live_Demo_Power_BI-FFD700?style=for-the-badge&logo=powerbi&logoColor=000000)](https://app.powerbi.com/view?r=eyJrIjoiNWU0ZWFkOTYtOTVlMy00YjU2LTg5NjgtNTcxM2YyYjk5MmVlIiwidCI6IjI4NDVhN2ExLWQ3ZTMtNDBjNC1hMGYwLWY4NWI5OWY2Mjc2YyJ9&pageName=9241900e7b25e72d8772)
 
 </td>
 <td width="50%">
