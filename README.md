@@ -118,15 +118,16 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 <td width="50%">
 
 
-### 🤖 **API de Análise de Sentimento NLP**
-**Processamento de Linguagem Natural | Desenvolvimento de API | Microserviços**
+### 🏦 **Previsão de Churn Bancário | Dashboard**
+**Machine Learning | Business Intelligence | Análise Preditiva**
 
-- **Stack**: Transformers, FastAPI, Docker, Kubernetes
-- **Precisão**: 94% classificação de sentimento
-- **Performance**: <100ms tempo de resposta
-- **Status**: 🟢 Microserviço Escalável
+- **Stack**: XGBoost, Power BI, Python, Pandas, Scikit-Learn
+- **Acurácia**: 86,80% | AUC: 87,21%
+- **Dashboard**: 4 visões dinâmicas (Visão Geral, Plano de Retenção, Perfil do Cliente, Performance do Modelo de Machine Learning)
+- **Status**: 🟢 Deploy no Power BI Service
 
-[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-user/nlp-api)
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoserpa/churn-prediction-xgboost-powerbi)
+[![Live Demo](https://img.shields.io/badge/Live_Demo_Power_BI-FFD700?style=for-the-badge&logo=powerbi&logoColor=000000)](https://app.powerbi.com/view?r=eyJrIjoiNTMyODU0ZWEtY2Q0Ni00MDMyLTk1MzUtODc5NWU2NTY4MGZmIiwidCI6IjI4NDVhN2ExLWQ3ZTMtNDBjNC1hMGYwLWY4NWI5OWY2Mjc2YyJ9)
 
 </td>
 </tr>
