@@ -107,7 +107,6 @@ Sou um **Cientista de Dados** apaixonado por transformar dados em insights valio
 **Business Intelligence | Análise de Dados | Power BI**
 
 - **Stack**: Power BI, Power Query, DAX
-- **Objetivo**: análise de vendas, lucro, margem e rentabilidade por categoria, subcategoria e região
 - **Recursos**: 3 páginas (Visão Geral, Análise de Rentabilidade, Insights Estratégicos), filtros dinâmicos e KPIs
 - **Status**: 🟢 Deploy no Power BI Service
 
